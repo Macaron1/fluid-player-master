@@ -4467,7 +4467,7 @@ var fluidPlayerClass = {
                     showOverAds:              false
                 },
                 controlBar: {
-                    autoHide:                 false,
+                    autoHide:                 true,
                     autoHideTimeout:          3,
                     animated:                 true
                 },
